@@ -19,7 +19,7 @@ header {
     font-style: normal;
     color: white;
     text-align: center;
-    background-image: url(/src/img/mexico-street.jpg);
+    background-image: url(../img/mexico-street.jpg);
     background-size: cover;
     padding: 0.5%;
     margin: 0px;
