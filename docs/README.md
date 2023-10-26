@@ -1,22 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Nbq3bBCm)
-
-# **University of Alberta - Full Stack Web Development Diploma**
-# **Eduard Panich Caceres**
-
-## Project Title:
-iTravels Blog.
+# iTravel Blog.
 
 ## Project Description:
 This is a **Blog** web page that has multiple HTML pages, the landing page, about and contact pages, it is a blog where I talk about places to visit in Mexico.
 
 ## What does your project do?
-My project is a **Blog**, it's for completing the final HTML assignment, in this blog you can see the landing page, you can get to know some information about the author, and you can submit a form on the contact page.
+The  main purpose is to practice my programming skills. In this blog you can see the landing page, you can get to know some information about the author, and you can submit a form on the contact page.
 
 ## What technology is used?
 I used CSS, HTML, used VS Code and GitHub.
 
 ## Future implementations/improvements?
-No future implementations or improvements.
+Use of CSS and Javascript to make the web page more complex and dinamic.
 
 ## Known bugs?
 None.
@@ -26,7 +20,7 @@ None.
 Comments about places I visited when traveling Mexico.
 
 - **About Page**
-Information about the author of the Blog (Me).
+Information about the author of the Blog.
 
 - **Contact Page**
 Page to fill out a form.
