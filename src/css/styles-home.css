@@ -1,8 +1,7 @@
-/* GENERAL STYLING */
+/* NAV STYLING */
 body {
     margin: 0%;
     font-size: 20px;
-    text-align: justify;
 }
 
 .global-nav {
@@ -34,38 +33,48 @@ body {
     font-style: italic;
 }
 
+
 /* WELCOME MESSAGE */
-.home-welcome-message {
-    margin-bottom: 2%;
-    margin-left: 19%;
-    margin-right: 19%;
+
+.div-welcome-message {
+    margin: auto;
+    max-width: 85ch;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
-.welcome-message {
-    max-width: 90ch;
+
+/* POSTS STYLING */
+
+.text-box {
+    width: cover;
 }
 
-.heading-welcome-message {
-    font-size: 30px;
-}
 
-/* POST STYLING */
 .div-enter-post {
-    margin-bottom: 2%;
-    padding: 2%;
-    margin-left: 19%;
-    margin-right: 19%;
-    border-top-color: grey;
+    margin: auto;
+    max-width: 85ch;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 1rem;
+
+}
+
+.section-blocks {
+    padding-bottom: 1rem;
     border-bottom-color: grey;
-    border-top-style: solid;
-    border-bottom-style: solid
+    border-bottom-style: solid;
 }
 
 .div-posts {
-    margin-left: 19%;
-    margin-right: 19%;
-    border-bottom-color: grey;
-    border-bottom-style: solid;
+    margin: auto;
+    max-width: 85ch;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 1rem;
+
 }
 
 .post-heading {
@@ -76,7 +85,6 @@ body {
 
 /* FOOTER STYLING */
 .footer {
-
     margin-bottom: 2%;
     padding-left: 2%;
     padding-right: 2%;
